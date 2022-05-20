@@ -1,0 +1,28 @@
+canvas {
+  border: 1px solid #a41212;
+}
+.buttonspace {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  padding: 17px;
+  background-color: rgb(77, 203, 74);
+  font-size: 17px;
+}
+.gamespace {
+  max-width: 500px;
+}
+.timer {
+  background-color: rgb(214, 86, 174);
+  padding: 20px;
+}
+.points {
+  background-color: aqua;
+  padding: 20px;
+}
+#info {
+  max-width: 500px;
+  display: flex;
+  justify-content: space-between;
+}
